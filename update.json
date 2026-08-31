@@ -1,10 +1,9 @@
 {
   "id": "liwenxin265",
-
   "version": "1.0.1",
   "versionCode": 101,
 
-  "updateUrl": "https://你的更新链接/module.zip",
+  "updateUrl": "https://github.com/liwenxin265-dev/-/raw/refs/heads/main/%E5%AE%8C%E7%BE%8E%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F.zip",
 
   "notice": {
     "enabled": true,
