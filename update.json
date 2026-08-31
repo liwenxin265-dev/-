@@ -1,6 +1,23 @@
 {
+  "id": "liwenxin265",
+
+  "version": "1.0.1",
   "versionCode": 101,
-  "version": "v1.0.1",
-  "zipUrl": "https://你的用户名.github.io/my-ksu-module/module.zip",
+
+  "updateUrl": "https://你的更新链接/module.zip",
+
+  "notice": {
+    "enabled": true,
+    "title": "普通公告",
+    "content": "这里是普通公告内容",
+    "id": "notice-001"
+  },
+
+  "forceUpdate": {
+    "enabled": true,
+    "title": "发现新版本",
+    "content": "检测到新的模块版本，请立即更新。"
+  },
+
   "changelog": "修复已知问题"
 }
