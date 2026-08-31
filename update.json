@@ -9,7 +9,6 @@
     "enabled": true,
     "title": "普通公告",
     "content": "这里是普通公告内容",
-    "id": "notice-001"
   },
 
   "forceUpdate": {
